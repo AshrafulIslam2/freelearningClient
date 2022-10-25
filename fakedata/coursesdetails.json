@@ -1,0 +1,165 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "coursesid": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "Total_purchase": 488,
+      "title": "Career Track: Full Stack (MERN) Web Development with JavaScript",
+      "instructor": {
+        "name": "Ashraful Islam",
+        "published_date": "2022-08-24 17:27:34"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Full-Stack-Web-MERN-Development-with-JavaScript-Bohubrihi-620x440.png",
+      "details": "একজন ফুল-স্ট্যাক ওয়েব ডেভেলপার হয়ে ওঠার জন্য আপনাকে একটি ওয়েবসাইট বা ওয়েব অ্যাপ্লিকেশনের ফ্রন্ট-এন্ড ও ব্যাক-এন্ড নিয়ে খুব ভালোভাবে জানতে হবে। তাই পুরো প্রোগ্রামে আপনি কয়েক ধাপে দুই ধরনের ডেভেলপমেন্টই শেখার সুযোগ পাবেন। যেকোনো ধরনের ওয়েব ডেভেলপমেন্টের জন্য সবচেয়ে বেসিক লেভেলে HTML ও CSS জানা খুব দরকারি। Boostrap-এর মতো ফ্রেমওয়ার্ক জানা থাকলে সেটা দেয় বাড়তি সুবিধা। এগুলো সম্পর্কে জানা না থাকলে এ কোর্সে জেনে যাবেন।মডার্ন ওয়েবসাইট ও অ্যাপ্লিকেশনগুলো সাধারণত ডায়নামিক হয়। অর্থাৎ সেগুলোতে ইউজাররা নানা ধরনের ইন্টারঅ্যাকশন করে থাকেন। আবার সেসব ইন্টারঅ্যাকশন নিয়ন্ত্রণ করা হয় একটি সিস্টেম দিয়ে, যেটি গুরুত্বপূর্ণ ডেটা সংগ্রহ ও সংরক্ষণের কাজও করে। পুরো প্রক্রিয়াটি দাঁড় করানোর জন্য বিভিন্ন টেকনোলজি ব্যবহার করেন ওয়েব ডেভেলপাররা। এ কোর্সে আপনি মূলত জোর দেবেন JavaScript-বেজড টেকনোলজির উপর। ওয়েব ডেভেলপমেন্টের জন্য দরকারি টেকনোলজিগুলো নিয়ে আপনি যা কিছু জানবেন, সেগুলো ১০টি রিয়েল-লাইফ প্রজেক্টের মাধ্যমে করে দেখানো হবে। আপনি নিজেও ১০টি প্রজেক্ট করবেন।"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "coursesid": "02",
+      "rating": { "number": 5, "badge": "Excellent" },
+      "Total_purchase": 1000,
+      "title": "Data Structures And Algorithms",
+      "instructor": {
+        "name": "Galib Hasan",
+        "published_date": "2022-08-24 17:27:34"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Data-Structures-and-Algorithms-Bangla-Online-Course-Bohubrihi-620x440.png",
+      "details": "কোর্সটি করার জন্য যেকোনো একটি প্রোগ্রামিং ল্যাঙ্গুয়েজ সম্পর্কে বেসিক ধারণা (reading inputs from the user, if-else, loops, printing outputs) থাকলেই চলবে। তবে Python, C++, or Java  এই তিনটির যেকোনো একটি জানা থাকলে খুব ভালো হয়!কারণ কোর্সের এক্সাম্পল প্রবলেমগুলো পাইথনের মাধ্যমে ইমপ্লিমেন্ট করা হবে। আর প্র্যাকটিস করার জন্য এসাইনমেন্টের কোডগুলো পাইথন, জাভা এবং সি++ এই তিনটি ল্যাঙ্গুয়েজেই দেওয়া থাকবে।"
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "coursesid": "03",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "Total_purchase": 400,
+      "title": "Advanced JAVA Programming for Software Development",
+      "instructor": {
+        "name": "Zeasan Chowdhury",
+        "published_date": "2022-08-30 16:38:45"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Advanced-Java-Programming-for-Software-Development-Bohubrihi-620x440.png",
+      "details":"একজন জাভা সফটওয়্যার ডেভেলপার হিসেবে আপনার পরিপূর্ণভাবে যেসব বিষয় জানা আবশ্যক সেগুলো অনেক ছোট-বড় প্রজেক্টের মাধ্যমে দেখানো হয়েছে এই কোর্সে। সেই সাথে সফটওয়্যারের ফ্রন্ট-এন্ড এবং ব্যাক-এন্ড ডেভেলপমেন্টের খুঁটিনাটি বিষয়গুলো আলোচনা করা হয়েছে। আবার, সব টপিকের ক্ষেত্রেই চাকরির ইন্টারভিউয়ের গুরুত্বপূর্ণ প্রশ্নগুলোর উত্তর উদাহরণসহ বোঝানো হয়েছে।
+      স্বাভাবিকভাবেই, কোর্সের বেশিরভাগ অংশে ব্যাক-এন্ড নিয়ে আলোচনা করা হয়েছে। যার মধ্যে আছে OOP Concepts, Generics, Collections, Database, Concurrency, IO Streams এবং Network Programming।
+      ফ্রন্ট-এন্ডের অংশে আলোচনা করা হয়েছে JavaFX, Network Programming নিয়ে। JavaFX হল সম্পূর্ণ ফ্রন্ট এন্ড বা গ্রাফিকাল ইউজার ইন্টারফেস (GUI) তৈরির ব্যাপার-স্যাপার। অন্যদিকে নেটওয়ার্ক প্রোগ্রামিং আসলে ব্যাক এন্ডের অংশ হলেও এখানে JavaFX ব্যবহার করে প্রজেক্ট তৈরি করে দেখানো হয়েছে।
+      
+      জাভা দিয়ে বানানো সব লাইব্রেরী বা ফ্রেমওয়ার্কের ক্ষেত্রে OOP Model, Generics, Collection, IO, Concurrency, Networking এই বিষয়গুলো সবসময় ব্যবহার করা হয়। তাই জাভাতে এগুলো কিভাবে কাজ করে তা সঠিকভাবে না জানলে Java Web ও Android Framework কঠিন মনে হতে পারে। এই কোর্সে PC Software Making এর সাথে সাথে জাভার বেসিক বিষয়গুলো প্রজেক্টসহ বিস্তারিতভাবে আলোচনা করা হয়েছে। তাই মনযোগ দিয়ে কোর্সটি করলে আশা করি জাভার অন্যান্য ফ্রেমওয়ার্কগুলো নিয়েও সব প্রশ্ন বা সমস্যা সমাধান হয়ে যাবে। "
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "coursesid": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "Total_purchase": 5000,
+      "title": "Stata for Statistics & Data Analysis",
+      "instructor": {
+        "name": "Masira Masum",
+        "published_date": "2022-08-30 16:38:45"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Stata-for-Statistics-and-Data-Analysis-Bohubrihi-Bangla-Course-620x440.png",
+      "details": "Stata is a premium statistical software for data science.
+      এই কোর্সে আপনাকে Stata-র সাথে পরিচয় করিয়ে দেয়া হবে; অর্থপূর্ণভাবে অনেক Command-ও দেখানো হবে। প্রতিটি Command ব্যখ্যাসহ আলোচনা করা হবে যাতে আপনারা আপনাদের কাজের প্রয়োজনে নিজে থেকেই Command তৈরি করতে পারবেন।
+       
+      পরিসংখ্যানের ধারণা ছাড়া Stata অসম্পূর্ণ থেকে যায়!  তাই এই কোর্সের প্রতিটি Analysis পরিসংখ্যানের দৃষ্টিকোণ থেকে ব্যাখ্যা করা হবে এবং এনালাইসিসের পেছনের স্ট্যাটিসটিক্যাল কনসেপ্টগুলোও বুঝিয়ে দেয়া হবে। এতে করে যেকোনো ব্যাকগ্রাউন্ডের শিক্ষার্থীরা Data Analysis এর স্বাদ বুঝতে পারবেন।
+       
+      তবে আপনার যদি আগে থেকেই পরিসংখ্যানের জ্ঞান থাকে তাহলে এই কোর্সটি আপনাকে আরও এক ধাপ এগিয়ে সেই জ্ঞানের সঠিক প্র্যাকটিকাল প্রয়োগ করার সুযোগ করে দেবে। আপনার যদি আগে থেকে Excel ও SPSS নিয়ে কিছু অভিজ্ঞতা থাকে (আবশ্যক নয়), তাহলে আগের Skill গুলোতে নতুন করে এই কোর্সটি দারুণ Value জুড়ে দেবে।
+       
+      তাছাড়া এই কোর্সের মাধ্যমে আপনি শিখবেন কিভাবে বিভিন্ন Data Analysis Project-এ Stata ব্যবহার করা হয়; প্র্যাকটিকাল প্রজেক্টে Stata-র কার্যধারা সম্পর্কে সঠিকভাবে ধারণা লাভ করতে পারবেন এই কোর্সের মাধ্যমে।
+       
+      কোর্সটি করা শেষ হলে দেখবেন Data Analysis বা Research সম্পৃক্ত যেকোনো কাজের জন্য Stata-ই হবে আপনার পছন্দের Software!!
+       
+      কাজেই, শুরু করে দিন!"
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "coursesid": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "Total_purchase": 980,
+      "title": "Graphic Design Fundamentals",
+      "instructor": {
+        "name": "Rasel Riaz Chowdhruy",
+        "published_date": "2022-08-24 23:15:00"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Graphic-Design-Fundamentals-Bohubrihi-620x440.png",
+      "details": "শুধু সফটওয়্যারের ইউজ করে নয়, বরং ক্রিয়েটিভ চিন্তা দিয়ে একটা ডিজাইন বের করে আনেন একজন ভালো গ্রাফিক ডিজাইনার। ডিজাইনের ক্ষেত্রে আপনার ক্রিয়েটিভিটিকে কাজে লাগাতে ডিজাইনের বিভিন্ন এলিমেন্ট, কম্পোজিশনসহ আরো কিছু বিষয়ে আপনার ধারণা থাকা দরকার।তাই এ কোর্সে আপনি ডিজাইনের ফান্ডামেন্টাল কনসেপ্টগুলো জানবেন। সাথে মজার কিছু অ্যাসাইনমেন্টের মাধ্যমে সেগুলো প্র্যাকটিস করতে পারবেন।"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "coursesid": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "Total_purchase": 880,
+      "title": "Laravel - দিয়ে ব্যাক-এন্ড ডেভেলপমেন্ট শিখুন",
+      "instructor": {
+        "name": "Forhad Mahmud",
+        "published_date": "2022-08-24 23:15:00"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Laravel-for-Back-End-Web-Development-Bohubrihi-620x440.png",
+      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "coursesid": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "Total_purchase": 4000,
+      "title": "Introduction to Database",
+      "instructor": {
+        "name":"isnad Bin Omar",
+        "published_date": "2022-08-30 15:00:04"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Introduction-to-Database-Bangla-Course-Bohubrihi-620x440.png",
+      "details": "ডেটাবেজ ম্যানেজমেন্টের এ কোর্স একদম বিগিনারদের কথা মাথায় রেখে সাজানো হয়েছে। কোর্সটিতে আপনি ডেটাবেজ ম্যানেজমেন্ট সিস্টেমের বেসিক জানবেন রিলেশনাল ডেটাবেজ নিয়ে সামগ্রিক ধারণা পাবেনডেটা মডেল ও ডেটাবেজ আর্কিটেকচার সম্পর্কে জানবেন অ্যাডভান্সড ডেটাবেজ সিস্টেম সম্পর্কে ধারণা পাবেন।"
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "coursesid": "08",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "Total_purchase": 111,
+      "title": "শিখুন কমপ্লিট Google Ads: A to Z",
+      "instructor": {
+        "name": "Sifat Tasnim",
+        "published_date": "2022-08-30 15:00:04"
+      },
+      "thumbnail_url": "https://bohubrihi.com/wp-content/uploads/2021/04/Google-Bangla-Course-620x440.png",
+      "details":"গুগলের মাধ্যমে সঠিক সময়ে সঠিক কাস্টমারদের কাছে আপনি পৌঁছাতে পারেন বিজ্ঞাপন দিয়ে। কিন্তু দক্ষভাবে বিজ্ঞাপন বানাতে না পারলে শুধু অর্থের অপচয় হবে।
+      গুগলের বিজ্ঞাপনে সাফল্য পেতে শিখবেন:
+      ‘Google Ads’ প্ল্যাটফর্ম সঠিকভাবে ব্যবহারের উপায়
+      ‘Keyword Planner’ ও ‘Audience Manager’ ব্যবহার করে কার্যকরী ও মানসম্মত ক্যাম্পেইন বানানোর কৌশল
+      ‘Google Tag Manager’ টুলের মাধ্যমে নির্দিষ্ট কাস্টমারদের কাছে বিজ্ঞাপন দেখানোর উপায়
+      বিলিয়ন বিলিয়ন এক্টিভ ইউজার নিয়ে গুগল ডিজিটাল মার্কেটিং এর অন্যতম সেরা প্ল্যাটফর্ম। সবচেয়ে কম সময়ে সবচেয়ে বেশি ওয়েবসাইট ভিজিটর পেতে সোশ্যাল মিডিয়া সাইটগুলোর চেয়েও গুগলের বিজ্ঞাপন বেশি কার্যকরী। এই প্ল্যাটফর্মে মার্কেটাররা সহজেই ক্রেতাদের কাছে পৌঁছাতে পারেন এবং তাদের পণ্য বা সার্ভিসের সেলস বাড়াতে পারেন।
+      
+      এই কোর্সে আমরা গুগল অ্যাড প্ল্যাটফর্মের সব দিক নিয়ে গভীরভাবে আলোচনা করব। এই প্ল্যাটফর্মের সকল ফীচার আমরা আপনাদের হাতেকলমে দেখাবো। সেই সাথে আপনাদের দেখাবো কিভাবে আপনারা অ্যাড ক্যাম্পেইন রান করে দ্রুত ভালো ফল পাবেন। 
+      
+      এই কোর্সটি আপনাকে একজন কনফিডেন্ট গুগল এডভার্টাইজার হতে হেল্প করবে!"
+    }]
