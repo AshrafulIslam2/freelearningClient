@@ -7,7 +7,7 @@ const courses = require("./fakedata/courses.json");
 const coursesDeatails = require("./fakedata/coursesdetails.json");
 
 app.get("/", (req, res) => {
-  res.send("Hello World with ashraful islam");
+  res.send("Hello World");
 });
 app.get("/courses", (req, res) => {
   res.send(courses);
