@@ -6,10 +6,6 @@ app.use(cors()); // client site data access korar jonnne use kora holo locally
 const courses = require("./fakedata/courses.json"); //// fake data variable set kora holo
 
 const coursesDeatails = require("./fakedata/coursesdetails.json"); // fake data variable set kora holo
-
-app.get("/", (req, res) => {
-  res.send("Hello World!Developer"); // "Defult route wellcome show korbe"
-});
 app.get("/courses", (req, res) => {
   res.send(courses); // shokol dornoer course Show korbe
 });
